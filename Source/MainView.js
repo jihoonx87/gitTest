@@ -13,7 +13,7 @@ MainView = class MainView extends AView
 	{
 		super.init(context, evtListener)
 
-		//TODO:edit here
+		//mainmainmainmainmainmainmainmain
 
 	}
 
